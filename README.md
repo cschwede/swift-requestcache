@@ -1,6 +1,8 @@
 Openstack Swift Request Cache Middleware
 ========================================
 
+**This code is not maintained and has been archived. Use at your own risk.**
+
 ``requestcache`` is a middleware that caches GET requests.
 
 Current status
